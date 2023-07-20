@@ -1,0 +1,262 @@
+#
+msgid ""
+msgstr ""
+
+#: ./_includes/header.liquid:11
+msgid "site menu"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:2
+#: ./_includes/theme-footer-logo.liquid:2
+msgid "Homepage of the Foundation for Public Code"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:3
+#: ./_includes/theme-footer-logo.liquid:3
+msgid "The mark of the Foundation for Public Code looks like a little greek temple, or government building, in a hexagon"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:4
+msgid "Foundation"
+msgid "for Public"
+msgid "Code"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:7
+msgid "Codebase Stewardship"
+msgid "Stewardship"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:8
+msgid "Project Resources"
+msgid "Resources"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:9
+msgid "Who we are"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:10
+msgid "Join us"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:11
+msgid "The Foundation for Public Code on Mastodon"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:13
+msgid "The Foundation for Public Code on Twitter"
+msgstr ""
+
+#: ./_includes/theme-nav.liquid:14
+msgid "The Foundation for Public Code on Github"
+msgstr ""
+
+#: ./_includes/footer.liquid:7
+msgid "Version "
+msgid " (pre-release)"
+
+#: ./_includes/footer.liquid:8
+msgid "Published "
+msgid " on GitHub"
+
+#: ./_includes/footer.liquid:14
+#: ./_includes/footer.liquid:22
+#: ./_includes/footer.liquid:24
+msgid " download"
+msgstr ""
+
+#: ./_includes/footer.liquid:21
+msgid "Source archive in "
+msgstr ""
+
+#: ./_includes/footer.liquid:23
+msgid "or"
+msgstr ""
+
+#: ./_includes/footer.liquid:18
+msgid "All releases"
+msgstr ""
+
+#: ./_includes/footer.liquid:39
+msgid "This site on GitHub"
+msgstr ""
+
+#: ./_includes/footer.liquid:40
+msgid "This site was last published {time} from the repository on GitHub."
+msgstr ""
+
+#: ./_includes/footer.liquid:43
+msgid "Search source on GitHub"
+msgstr ""
+
+#: ./_includes/footer.liquid:44
+msgid "Search"
+msgstr ""
+
+#: ./_includes/footer.liquid:53
+msgid "Copyright and license"
+msgstr ""
+
+#: ./_includes/footer.liquid:62
+#: ./_includes/theme-footer-logo.liquid:4
+msgid "Foundation for Public Code"
+msgstr ""
+
+#: ./_includes/footer.liquid:65
+msgid "The Authors"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:7
+msgid "About us"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:8
+msgid "All of our staff information, decision-making rules and processes. Our staff manual is developed collaboratively with the community and can be reused by everyone."
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:9
+msgid "Read more about our activities, organization, and the glossary of terms and concepts."
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:12
+msgid "How we work"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:17
+msgid "Project resources"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:18
+msgid "Open products we're researching or developing to further our mission. We rely on these resources for our everyday work. You can, too!"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:21
+msgid "Free to use and modify"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:22
+msgid "See all our work on Github"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:27
+msgid "Careers"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:28
+msgid "Calling all publicly minded open source people! Find out about working with us, and join our staff."
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:31
+msgid "Open positions"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:38
+msgid "Contact"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:40
+msgid "Newsletter:"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:41
+msgid "Join our mailing list"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:43
+msgid "Phone:"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:46
+msgid "Email:"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:49
+msgid "Address:"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:50
+msgid "Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:51
+msgid "OpenStreetMap"
+msgid "Google"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:51
+msgid "Google Maps"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:57
+msgid "Organizational notes"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:58
+msgid "Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) "
+msgid "is a member owned association"
+msgid " registered under "
+msgid "chamber of commerce (KvK) registration 74996452"
+msgid " and with identification number (RSIN) 860102294."
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:58
+msgid "Governance model"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:58
+msgid "KVK registration"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:59
+msgid "We're recognized as a "
+msgid "public benefit organization (ANBI)"
+msgid " by the Dutch Tax and Customs Administration. See "
+msgid "our ANBI information"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:59
+msgid "public benefit organization (ANBI)"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:61
+msgid "Last updated "
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:62
+msgid "Foundation for Public Code"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:63
+msgid "All content licensed under "
+msgid "Creative Commons Zero v1.0 Universal"
+msgid ", unless otherwise noted"
+msgstr ""
+
+#: ./_includes/theme-footer.liquid:63
+msgid "Creative Commons Zero v1.0 Universal"
+msgstr ""
+
+#: ./_includes/page-information.liquid:9
+msgid "Contents"
+msgstr ""
+
+#: ./_includes/page-information.liquid:15
+msgid "Feed"
+msgstr ""
+
+#: ./_includes/page-information.liquid:16
+msgid "Subscription feed"
+msgstr ""
+
+#: ./_includes/page-information.liquid:20
+msgid "Contribute on GitHub"
+msgstr ""
+
+#: ./_includes/page-information.liquid:23
+msgid " Edit this page"
+msgstr ""
+
+#: ./_includes/page-information.liquid:24
+msgid " File an Issue"
+msgstr ""
