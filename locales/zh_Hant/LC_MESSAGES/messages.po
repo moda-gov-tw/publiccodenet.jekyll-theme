@@ -18,18 +18,18 @@ msgstr ""
 
 #: ./_includes/theme-nav.liquid:4
 msgid "Foundation"
-msgid "for Public"
-msgid "Code"
+"for Public"
+"Code"
 msgstr ""
 
 #: ./_includes/theme-nav.liquid:7
 msgid "Codebase Stewardship"
-msgid "Stewardship"
+"Stewardship"
 msgstr ""
 
 #: ./_includes/theme-nav.liquid:8
 msgid "Project Resources"
-msgid "Resources"
+"Resources"
 msgstr ""
 
 #: ./_includes/theme-nav.liquid:9
@@ -54,11 +54,13 @@ msgstr ""
 
 #: ./_includes/footer.liquid:7
 msgid "Version "
-msgid " (pre-release)"
+" (pre-release)"
+msgstr ""
 
 #: ./_includes/footer.liquid:8
 msgid "Published "
-msgid " on GitHub"
+" on GitHub"
+msgstr ""
 
 #: ./_includes/footer.liquid:14
 #: ./_includes/footer.liquid:22
@@ -181,7 +183,7 @@ msgstr ""
 
 #: ./_includes/theme-footer.liquid:51
 msgid "OpenStreetMap"
-msgid "Google"
+"Google"
 msgstr ""
 
 #: ./_includes/theme-footer.liquid:51
@@ -194,10 +196,10 @@ msgstr ""
 
 #: ./_includes/theme-footer.liquid:58
 msgid "Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) "
-msgid "is a member owned association"
-msgid " registered under "
-msgid "chamber of commerce (KvK) registration 74996452"
-msgid " and with identification number (RSIN) 860102294."
+"is a member owned association"
+" registered under "
+"chamber of commerce (KvK) registration 74996452"
+" and with identification number (RSIN) 860102294."
 msgstr ""
 
 #: ./_includes/theme-footer.liquid:58
@@ -210,9 +212,9 @@ msgstr ""
 
 #: ./_includes/theme-footer.liquid:59
 msgid "We're recognized as a "
-msgid "public benefit organization (ANBI)"
-msgid " by the Dutch Tax and Customs Administration. See "
-msgid "our ANBI information"
+"public benefit organization (ANBI)"
+" by the Dutch Tax and Customs Administration. See "
+"our ANBI information"
 msgstr ""
 
 #: ./_includes/theme-footer.liquid:59
@@ -229,8 +231,8 @@ msgstr ""
 
 #: ./_includes/theme-footer.liquid:63
 msgid "All content licensed under "
-msgid "Creative Commons Zero v1.0 Universal"
-msgid ", unless otherwise noted"
+"Creative Commons Zero v1.0 Universal"
+", unless otherwise noted"
 msgstr ""
 
 #: ./_includes/theme-footer.liquid:63
