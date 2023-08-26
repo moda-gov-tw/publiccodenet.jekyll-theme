@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-26 16:44+0800\n"
-"PO-Revision-Date: 2023-08-09 05:44+0000\n"
-"Last-Translator: Tommy JIang <baptist333@yahoo.com.tw>\n"
+"PO-Revision-Date: 2023-08-27 10:44+0000\n"
+"Last-Translator: Wilt <interpreter.wilt@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/jekyll-theme/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -254,7 +254,7 @@ msgstr "除非另有說明，本網站內容皆取得CC Zero v1.0 Universal授�
 
 #: ./_includes/theme-footer.liquid:63
 msgid "Creative Commons Zero v1.0 Universal"
-msgstr "創用 CC Zero v1.0 Universal授權"
+msgstr "創用 CC Zero v1.0 Universal 授權"
 
 #: ./_includes/page-information.liquid:9
 msgid "Contents"
