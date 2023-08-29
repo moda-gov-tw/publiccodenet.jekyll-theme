@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-26 16:44+0800\n"
-"PO-Revision-Date: 2023-08-28 14:44+0000\n"
-"Last-Translator: Wilt <interpreter.wilt@gmail.com>\n"
+"PO-Revision-Date: 2023-08-30 09:44+0000\n"
+"Last-Translator: Toomore <toomore@ocf.tw>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/jekyll-theme/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -83,7 +83,7 @@ msgstr " 下載"
 
 #: ./_includes/footer.liquid:21
 msgid "Source archive in "
-msgstr "將來源碼以  格式封存 "
+msgstr "原始碼封存以格式 "
 
 #: ./_includes/footer.liquid:23
 msgid "or"
@@ -192,7 +192,6 @@ msgid "Address:"
 msgstr "地址："
 
 #: ./_includes/theme-footer.liquid:50
-#, fuzzy
 msgid "Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands"
 msgstr "Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands"
 
