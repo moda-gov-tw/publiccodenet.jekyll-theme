@@ -1,11 +1,6 @@
-import os
 import polib
 
 def main():
-    # content = {}
-    # with open(file_path, "r", encoding="utf-8") as file:
-    #     content = file.read()
-
     po_path = "locales/zh_Hant/LC_MESSAGES/messages.po"
     po_content = polib.pofile(po_path)
     for entry in po_content:
@@ -15,31 +10,27 @@ def main():
         occurrences = entry.occurrences
         for location in occurrences:
             file_path, line_number = location
-            # 讀去檔案
-            with open(file_path, "r", encoding="utf-8") as fp:
-                lines = fp.readlines()
+
+            # 讀取檔案
+            lines = read_file(file_path)
 
             # 取代文字
             line_content = lines[int(line_number) - 1]
             lines[int(line_number) - 1] = line_content.replace(msgid, msgstr)
 
             # 寫回檔案
-            with open(file_path, "w", encoding="utf-8") as fp:
-                fp.writelines(lines)
-
-
-
-
-
-
-        # print(entry.msgid, entry.msgstr)
+            write_file(file_path, lines)
 
 
 def read_file(path):
-    content = {}
+    lines = {}
     with open(path, "r", encoding="utf-8") as file:
-        content = file.read()
-    return content
+        lines = file.readlines()
+    return lines
+
+def write_file(path, lines):
+    with open(path, "w", encoding="utf-8") as fp:
+        fp.writelines(lines)
 
 if __name__ == '__main__':
     main()
