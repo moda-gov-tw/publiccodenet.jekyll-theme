@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-26 16:44+0800\n"
-"PO-Revision-Date: 2023-09-02 06:44+0000\n"
+"PO-Revision-Date: 2023-09-05 04:44+0000\n"
 "Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/jekyll-theme/zh_Hant/>\n"
@@ -22,18 +22,19 @@ msgstr "網站選單"
 #: ./_includes/theme-nav.liquid:2
 #: ./_includes/theme-footer-logo.liquid:2
 msgid "Homepage of the Foundation for Public Code"
-msgstr "公共程式基金會首頁"
+msgstr "Foundation for Public Code 首頁"
 
 #: ./_includes/theme-nav.liquid:3
 #: ./_includes/theme-footer-logo.liquid:3
 msgid "The mark of the Foundation for Public Code looks like a little greek temple, or government building, in a hexagon"
-msgstr "公共程式基金會的標誌，看起來像是小間的希臘神廟，或是六角形的政府大樓"
+msgstr "Foundation for Public Code "
+"的標誌，看起來像是小間的希臘神廟，或是六角形的政府大樓"
 
 #: ./_includes/theme-nav.liquid:4
 msgid "Foundation"
 "for Public"
 "Code"
-msgstr "公共程式基金會"
+msgstr "Foundation for Public Code"
 
 #: ./_includes/theme-nav.liquid:7
 msgid "Codebase Stewardship"
@@ -55,15 +56,15 @@ msgstr "加入我們"
 
 #: ./_includes/theme-nav.liquid:11
 msgid "The Foundation for Public Code on Mastodon"
-msgstr "公共程式基金會的 Mastodon 頁面"
+msgstr "Foundation for Public Code 的 Mastodon 頁面"
 
 #: ./_includes/theme-nav.liquid:13
 msgid "The Foundation for Public Code on Twitter"
-msgstr "公共程式基金會的 Twitter 頁面"
+msgstr "Foundation for Public Code 的 Twitter 頁面"
 
 #: ./_includes/theme-nav.liquid:14
 msgid "The Foundation for Public Code on Github"
-msgstr "公共程式基金會的 Github 頁面"
+msgstr "Foundation for Public Code 的 Github 頁面"
 
 #: ./_includes/footer.liquid:7
 msgid "Version "
@@ -133,7 +134,7 @@ msgstr "本基金會人員資訊、決策規則與流程。本基金會的員工
 
 #: ./_includes/theme-footer.liquid:9
 msgid "Read more about our activities, organization, and the glossary of terms and concepts."
-msgstr "深入瞭解我們的活動、組織、詞彙表與概念等。"
+msgstr "深入瞭解我們的活動、組織、詞彙表與觀念等。"
 
 #: ./_includes/theme-footer.liquid:12
 msgid "How we work"
@@ -216,8 +217,8 @@ msgid "Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) "
 "chamber of commerce (KvK) registration 74996452"
 " and with identification number (RSIN) 860102294."
 msgstr ""
-"公共程式基金會（法人）是由其成員所有的協會，且在荷蘭商會 (KvK) 底下註冊，"
-"註冊編號為 74996452，識別碼為 (RSIN) 860102294。"
+"Foundation for Public Code（法人）是由其成員所有的協會，且在荷蘭商會 (KvK) "
+"底下註冊，註冊編號為 74996452，識別碼為 (RSIN) 860102294。"
 
 #: ./_includes/theme-footer.liquid:58
 msgid "Governance model"
@@ -244,13 +245,13 @@ msgstr "上次更新時間： "
 
 #: ./_includes/theme-footer.liquid:62
 msgid "Foundation for Public Code"
-msgstr "公共程式基金會"
+msgstr "Foundation for Public Code"
 
 #: ./_includes/theme-footer.liquid:63
 msgid "All content licensed under "
 "Creative Commons Zero v1.0 Universal"
 ", unless otherwise noted"
-msgstr "除非另有說明，本網站所有內容皆以創用 CC0 1.0 通用之公眾領域貢獻宣告給予授權"
+msgstr "本網站所有內容皆以創用 CC0 1.0 通用之公眾領域貢獻宣告給予授權，另有說明者除外"
 
 #: ./_includes/theme-footer.liquid:63
 msgid "Creative Commons Zero v1.0 Universal"
@@ -266,11 +267,11 @@ msgstr "消息饋流"
 
 #: ./_includes/page-information.liquid:16
 msgid "Subscription feed"
-msgstr "訂閱訊息饋流"
+msgstr "訂閱消息饋流"
 
 #: ./_includes/page-information.liquid:20
 msgid "Contribute on GitHub"
-msgstr "在 GitHub 貢獻"
+msgstr "到 GitHub 貢獻"
 
 #: ./_includes/page-information.liquid:23
 msgid " Edit this page"
