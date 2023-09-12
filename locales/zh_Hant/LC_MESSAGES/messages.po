@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-26 16:44+0800\n"
-"PO-Revision-Date: 2023-09-05 04:44+0000\n"
+"PO-Revision-Date: 2023-09-13 02:40+0000\n"
 "Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/jekyll-theme/zh_Hant/>\n"
@@ -129,16 +129,16 @@ msgstr "關於我們"
 
 #: ./_includes/theme-footer.liquid:8
 msgid "All of our staff information, decision-making rules and processes. Our staff manual is developed collaboratively with the community and can be reused by everyone."
-msgstr "本基金會人員資訊、決策規則與流程。本基金會的員工手冊，是與社群合作共同編寫，"
+msgstr "本基金會人員資訊、決策規則與流程。本基金會的員工手冊，是與社群協作共同編寫，"
 "任何人都可再利用。"
 
 #: ./_includes/theme-footer.liquid:9
 msgid "Read more about our activities, organization, and the glossary of terms and concepts."
-msgstr "深入瞭解我們的活動、組織、詞彙表與觀念等。"
+msgstr "深入瞭解我們的活動、組織、術語詞彙表與觀念等。"
 
 #: ./_includes/theme-footer.liquid:12
 msgid "How we work"
-msgstr "運作方式"
+msgstr "我們的運作方式"
 
 #: ./_includes/theme-footer.liquid:17
 msgid "Project resources"
@@ -146,8 +146,8 @@ msgstr "專案資源"
 
 #: ./_includes/theme-footer.liquid:18
 msgid "Open products we're researching or developing to further our mission. We rely on these resources for our everyday work. You can, too!"
-msgstr "為了推動本基金會使命所研究或發展的開放成品。我們每天的工作都依靠這些資源。您"
-"也可以！"
+msgstr "為了推動本基金會使命而研究或開發的開放成品。我們每天的工作都依靠這些資源。您"
+"也可以喔！"
 
 #: ./_includes/theme-footer.liquid:21
 msgid "Free to use and modify"
@@ -251,7 +251,8 @@ msgstr "Foundation for Public Code"
 msgid "All content licensed under "
 "Creative Commons Zero v1.0 Universal"
 ", unless otherwise noted"
-msgstr "本網站所有內容皆以創用 CC0 1.0 通用之公眾領域貢獻宣告給予授權，另有說明者除外"
+msgstr "本網站所有內容，皆以創用 CC0 1.0 "
+"通用之公眾領域貢獻宣告給予授權，另有說明者除外"
 
 #: ./_includes/theme-footer.liquid:63
 msgid "Creative Commons Zero v1.0 Universal"
