@@ -15,10 +15,10 @@
           </li>
         {% endfor %}
         <li>
-            <a href="{{ site.github.repository_url }}/releases">所有版本</a>
+            <a href="{{ site.github.repository_url }}/releases">所有發行版</a>
         </li>
         <li>
-          將來源碼以  格式封存 
+          原始碼封存格式
           <a href="{{ latestRelease.zipball_url }}" 下載><code>.zip</code></a>
           或是
           <a href="{{ latestRelease.tarball_url }}" 下載><code>.tar.gz</code></a>
@@ -36,11 +36,11 @@
   <!-- GitHub repository information -->
   {% if site.github %}
     <section>
-      <h3>本網站在GitHub的頁面</h3>
+      <h3>本站在 GitHub 的頁面</h3>
       <p>This site was last published {{ site.time | date_to_long_string }} from the <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> repository on GitHub.</p>
 
       <form id="search-repository" action="{{ site.github.repository_url }}/search" method="GET">
-        <input name="q" type="text" placeholder="在GitHub上搜尋原始碼">
+        <input name="q" type="text" placeholder="搜尋 GitHub 的原始碼">
         <button type="Submit">{% include github-search.svg %} 搜尋</button>
       </form>
 
@@ -52,7 +52,7 @@
     <section>
       <h3>著作權與授權</h3>
       <p>
-        © {{ site.time | date: '%Y' }} 
+        © {{ site.time | date: '%Y' }}
         {% for static_file in site.static_files %}
           {% if static_file.path == '/AUTHORS.md' %}
               {% assign authors_file = true %}
