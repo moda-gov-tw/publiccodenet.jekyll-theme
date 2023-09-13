@@ -6,22 +6,22 @@
     {% capture toc %}{% include toc.liquid html=content h_min=2 sanitize=true class="table-of-contents" ordered=true %}{% endcapture %}
 
     {% if toc != blank %}
-      <h3 id="page-table-of-contents">Contents</h3>
+      <h3 id="page-table-of-contents">目次</h3>
       {{ toc }}
     {% endif %}
   {% endif %}
 
   {% if site.feed_link == true %}
-      <h3 id="page-feed">Feed</h3>
-      <a href="{{ site.url }}/feed.xml">Subscription feed</a>
+      <h3 id="page-feed">消息饋流</h3>
+      <a href="{{ site.url }}/feed.xml">訂閱消息饋流</a>
   {% endif %}
 
   {% if site.github.repository_url %}
-    <h3 id="page-edit-links">Contribute on GitHub</h3>
+    <h3 id="page-edit-links">到 GitHub 貢獻</h3>
     <ul class="edit-links">
       <!-- The default branch is {% for repo in site.github.public_repositories %}{% if repo.name == site.github.repository_name %}{% assign default_branch = repo.default_branch %}{% endif %}{% endfor %}{{ default_branch }}, while site.github.source.branch is {{ site.github.source.branch }} -->
-      <li><a href="{{ site.github.repository_url }}/edit/{{ default_branch }}/{{ page.path }}">{% include github-pr.svg %} Edit this page</a></li>
-      <li><a href="{{ site.github.repository_url }}/issues/new?body=I'd like to report an issue in `{{ page.path }}`">{% include github-issue.svg %} File an Issue</a></li>
+      <li><a href="{{ site.github.repository_url }}/edit/{{ default_branch }}/{{ page.path }}">{% include github-pr.svg %} 編輯此頁面</a></li>
+      <li><a href="{{ site.github.repository_url }}/issues/new?body=I'd like to report an issue in `{{ page.path }}`">{% include github-issue.svg %} 通報問題</a></li>
     </ul>
   {% endif %}
 
