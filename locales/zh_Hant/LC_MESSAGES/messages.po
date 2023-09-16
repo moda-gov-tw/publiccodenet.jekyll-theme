@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-26 16:44+0800\n"
-"PO-Revision-Date: 2023-09-13 02:40+0000\n"
+"PO-Revision-Date: 2023-09-16 03:33+0000\n"
 "Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/jekyll-theme/zh_Hant/>\n"
@@ -39,7 +39,7 @@ msgstr "Foundation for Public Code"
 #: ./_includes/theme-nav.liquid:7
 msgid "Codebase Stewardship"
 "Stewardship"
-msgstr "代碼庫盡職管理"
+msgstr "代碼基底盡職管理"
 
 #: ./_includes/theme-nav.liquid:8
 msgid "Project Resources"
