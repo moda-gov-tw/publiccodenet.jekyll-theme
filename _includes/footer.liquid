@@ -37,7 +37,7 @@
   {% if site.github %}
     <section>
       <h3>本站在 GitHub 的頁面</h3>
-      <p>This site was last published {{ site.time | date_to_long_string }} from the <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> repository on GitHub.</p>
+      <p>本站最近一次是在 {{ site.time | date_to_long_string }} 根據 <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> GitHub 的儲存庫版本發表。</p>
 
       <form id="search-repository" action="{{ site.github.repository_url }}/search" method="GET">
         <input name="q" type="text" placeholder="搜尋 GitHub 的原始碼">
