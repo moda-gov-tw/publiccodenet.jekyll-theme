@@ -4,8 +4,8 @@
     <section>
       {% assign latestRelease = site.github.releases[0] %}
 
-      <h3>Version {{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}</h3>
-      <p>Published <a href="{{ latestRelease.html_url }}">{{ latestRelease.published_at | date_to_long_string }} on GitHub</a></p>
+      <h3>版本 {{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (預先發行){% endif %}</h3>
+      <p>發表於 <a href="{{ latestRelease.html_url }}">{{ latestRelease.published_at | date_to_long_string }} GitHub</a></p>
       <p>{{ latestRelease.name }}</p>
 
       <ul>
