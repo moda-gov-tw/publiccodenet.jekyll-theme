@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-26 16:44+0800\n"
-"PO-Revision-Date: 2023-09-16 03:33+0000\n"
+"PO-Revision-Date: 2023-09-17 08:44+0000\n"
 "Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "standard-for-public-code/jekyll-theme/zh_Hant/>\n"
@@ -39,7 +39,7 @@ msgstr "Foundation for Public Code"
 #: ./_includes/theme-nav.liquid:7
 msgid "Codebase Stewardship"
 "Stewardship"
-msgstr "代碼基底盡職管理"
+msgstr "程式基底督導"
 
 #: ./_includes/theme-nav.liquid:8
 msgid "Project Resources"
@@ -117,7 +117,7 @@ msgstr "著作權與授權"
 #: ./_includes/footer.liquid:62
 #: ./_includes/theme-footer-logo.liquid:4
 msgid "Foundation for Public Code"
-msgstr "公共程式基金會"
+msgstr "Foundation for Public Code"
 
 #: ./_includes/footer.liquid:65
 msgid "The Authors"
@@ -252,7 +252,7 @@ msgid "All content licensed under "
 "Creative Commons Zero v1.0 Universal"
 ", unless otherwise noted"
 msgstr "本網站所有內容，皆以創用 CC0 1.0 "
-"通用之公眾領域貢獻宣告給予授權，另有說明者除外"
+"通用授權，即公眾領域貢獻宣告給予授權，另有說明者除外"
 
 #: ./_includes/theme-footer.liquid:63
 msgid "Creative Commons Zero v1.0 Universal"
